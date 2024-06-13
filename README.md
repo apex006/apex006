@@ -1,4 +1,4 @@
-#About Shawn
+# About Shawn
 
 
 - 🔭 I’m currently working on Lenovo in China
